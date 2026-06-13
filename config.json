@@ -13,11 +13,11 @@
   "OTPKEY": "",
   "BOTNAME": "⚠️ MRZN BOT🙂",
   "PREFIX": ".",
-  "reactUnsend": ["🙂", "😭", "🤬", "💔"],
+  "reactUnsend": [""],
 
   "ADMINBOT": [
     "61574286011307",
-    "61590756236993",
+    "100088243633078",
     ""
   ],
   "NDH": ["100044713412032"],
@@ -134,7 +134,7 @@
 
   "Security": {
     "caesar": { "caeserPassword": "123456" },
-    "log": { "enable": true },
+    "log": { "enable": false },
     "god": { "enable": true }
   }
 }
