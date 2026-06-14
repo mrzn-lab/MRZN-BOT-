@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "MRZN apps & games",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -13,7 +13,7 @@
   "OTPKEY": "",
   "BOTNAME": "⚠️ MRZN BOT🙂",
   "PREFIX": ".",
-  "reactUnsend": [""],
+  "reactUnsend": ["🙂","🤬","⚠️","💔"],
 
   "ADMINBOT": [
     "61574286011307",
